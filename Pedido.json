@@ -1,0 +1,12 @@
+{
+  "EmailCliente": "miltoncamaragomes@gmail.com",
+  "NomeNoCartao": "Milton Camara Gomes",
+  "NumCartao": "4066 5599 8050 4562",
+  "Validate": "05/2023",
+  "CodSeguranca": "859",
+  "Parcelas": 10,
+  "Produto": {
+    "Nome": "Mouse Gamer",
+    "Valor": 150
+  }
+}
